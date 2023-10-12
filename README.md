@@ -64,3 +64,8 @@
 - be a man
 
 - have the degree requiremnts code convert the students requirements to a prompt for the ai to base a schedule off of 
+
+
+#updates october 12 
+- what you want the code to end up doing, ask for input input goes to the backsend server where python code is running, then back to the frontend which is going to be the website
+- make code that goes to registra clicks on each of the type of courses and scrapes the data on who teaches the course when it is being offered and  what times 
